@@ -1,0 +1,63 @@
+{
+  "_from": "@nuxt-modules/decathlon-oauth2",
+  "_id": "@nuxt-modules/decathlon-oauth2@0.2.5",
+  "_inBundle": false,
+  "_integrity": "sha512-owydjUCDuHxdLT57fd3jVgmcbxh9gtrFyBJgxYKRT8I3H7j3xyIJVNzuUHqatYefLxkEPp75B44h+7vImZScMg==",
+  "_location": "/@nuxt-modules/decathlon-oauth2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@nuxt-modules/decathlon-oauth2",
+    "name": "@nuxt-modules/decathlon-oauth2",
+    "escapedName": "@nuxt-modules%2fdecathlon-oauth2",
+    "scope": "@nuxt-modules",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://nexus3.osiris.withoxylane.com/repository/JSCorp/@nuxt-modules/decathlon-oauth2/-/decathlon-oauth2-0.2.5.tgz",
+  "_shasum": "2b8a90373613be22c3681b26b0406c46c746d8a7",
+  "_spec": "@nuxt-modules/decathlon-oauth2",
+  "_where": "/Users/RHANDY/Projects/aero-front",
+  "author": {
+    "name": "Alexandre Bonhomme",
+    "email": "alexandre.bonhomme.partner@decathlon.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dktunited/nuxt-modules/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "connect-redis": "^3.4.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "oauth": "^0.9.15",
+    "passport": "^0.4.0",
+    "passport-oauth2": "^1.4.0",
+    "proxy-agent": "^3.0.3",
+    "request": "^2.88.0"
+  },
+  "deprecated": false,
+  "description": "DKT Connect authentication module",
+  "homepage": "https://github.com/dktunited/nuxt-modules#readme",
+  "license": "",
+  "main": "index.js",
+  "name": "@nuxt-modules/decathlon-oauth2",
+  "publishConfig": {
+    "registry": "http://nexus3.osiris.withoxylane.com/repository/JSCorp/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dktunited/nuxt-modules.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.5"
+}
